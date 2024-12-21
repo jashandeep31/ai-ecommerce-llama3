@@ -12,3 +12,4 @@ The code may not be fully optimized, but it works.
    npm install
    npm run dev
    ```
+![]([/some/image.png](https://raw.githubusercontent.com/jashandeep31/ai-ecommerce-llama3/refs/heads/main/home.png))
